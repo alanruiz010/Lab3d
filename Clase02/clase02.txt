@@ -1,0 +1,5 @@
+showdialog = modal
+
+mdi container :: multiple Document
+
+ya se dio, lanzamiento de formularios, mdi container ,owner

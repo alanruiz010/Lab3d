@@ -1,0 +1,9 @@
+C:\Users\alumno.LAB4PC\Desktop\Clase03\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\alumno.LAB4PC\Desktop\Clase03\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\alumno.LAB4PC\Desktop\Clase03\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\alumno.LAB4PC\Desktop\Clase03\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB4PC\Desktop\Clase03\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.Form1.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase03\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase03\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\Clase03\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\alumno.LAB4PC\Desktop\Clase03\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb

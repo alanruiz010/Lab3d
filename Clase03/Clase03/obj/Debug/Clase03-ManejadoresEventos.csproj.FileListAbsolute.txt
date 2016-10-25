@@ -1,0 +1,8 @@
+C:\Users\alumno.LAB4PC\Desktop\Clase03\Clase03\bin\Debug\Clase03.exe.config
+C:\Users\alumno.LAB4PC\Desktop\Clase03\Clase03\obj\Debug\Clase03.exe
+C:\Users\alumno.LAB4PC\Desktop\Clase03\Clase03\obj\Debug\Clase03.pdb
+C:\Users\alumno.LAB4PC\Desktop\Clase03\Clase03\bin\Debug\Clase03.exe
+C:\Users\alumno.LAB4PC\Desktop\Clase03\Clase03\bin\Debug\Clase03.pdb
+C:\Users\alumno.LAB4PC\Desktop\Clase03\Clase03\obj\Debug\Clase03.Form1.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase03\Clase03\obj\Debug\Clase03.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase03\Clase03\obj\Debug\Clase03-ManejadoresEventos.csproj.GenerateResource.Cache

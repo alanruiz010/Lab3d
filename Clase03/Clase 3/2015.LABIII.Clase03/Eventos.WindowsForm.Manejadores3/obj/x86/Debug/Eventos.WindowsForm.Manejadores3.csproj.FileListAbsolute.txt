@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores3\bin\Debug\Eventos.WindowsForm.Manejadores3.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores3\bin\Debug\Eventos.WindowsForm.Manejadores3.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.frmPasarManejador.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.pdb
+D:\Users\chris_000\Downloads\2015.LABIII.Clase03\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.exe
+D:\Users\chris_000\Downloads\2015.LABIII.Clase03\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.pdb

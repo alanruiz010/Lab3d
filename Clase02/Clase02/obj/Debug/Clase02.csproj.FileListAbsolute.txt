@@ -1,0 +1,11 @@
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\bin\Debug\Clase02.exe.config
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\bin\Debug\Clase02.exe
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\bin\Debug\Clase02.pdb
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\obj\Debug\Clase02.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\obj\Debug\Clase02.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\obj\Debug\Clase02.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\obj\Debug\Clase02.exe
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\obj\Debug\Clase02.pdb
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\obj\Debug\Clase02.Form2.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\obj\Debug\Clase02.frmPersona.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Clase02\obj\Debug\Clase02.frmEmpleado.resources

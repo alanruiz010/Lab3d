@@ -1,0 +1,10 @@
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\bin\Debug\Ruiz.Alan.3d.exe.config
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\bin\Debug\Ruiz.Alan.3d.exe
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\bin\Debug\Ruiz.Alan.3d.pdb
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\obj\Debug\Ruiz.Alan.3d.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\obj\Debug\Ruiz.Alan._3d.AcercaDe.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\obj\Debug\Ruiz.Alan._3d.MenuPrincipal.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\obj\Debug\Ruiz.Alan._3d.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\obj\Debug\Ruiz.Alan.3d.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\obj\Debug\Ruiz.Alan.3d.exe
+C:\Users\alumno.LAB4PC\Desktop\Clase02\Ruiz.Alan.3d\Ruiz.Alan.3d\obj\Debug\Ruiz.Alan.3d.pdb
