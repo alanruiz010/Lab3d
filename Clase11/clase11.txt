@@ -1,0 +1,23 @@
+trabajo practico:
+.Net
+dtPErsona
+ID_Persona, DNI_Persona, Nombre_Persona
+
+Ado.Net:
+SQLDATAADAPTER 
+->FiLL
+->Update
+
+Nos ayuda a conectarnos con el sql:
+SqlCommand comando= new SqlCommand("insert into the dbo.Persona(Nombre,DNI) values(@Nombre,@DNI)",Conexion);
+
+SQL:
+dbo.Persona
+ID,Nombre,Apellido,Dni,Fecha_Nacimiento
+
+
+---------------------
+1 dataAdapter por 1 DataTable
+NEcesito 1 dataadapter por cada datatable, cada data adapter gestiona 1 data table
+con fill, ejecuta el select command,
+el update , elige ,que metodo realizar de acuerdo al rowstate , 

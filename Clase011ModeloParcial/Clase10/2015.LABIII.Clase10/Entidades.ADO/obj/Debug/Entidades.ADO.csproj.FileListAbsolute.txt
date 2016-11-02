@@ -1,0 +1,10 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\Entidades.ADO\bin\Debug\Entidades.ADO.dll.config
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\Entidades.ADO\bin\Debug\Entidades.ADO.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\Entidades.ADO\bin\Debug\Entidades.ADO.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\Entidades.ADO\obj\Debug\Entidades.ADO.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\Entidades.ADO\obj\Debug\Entidades.ADO.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\Entidades.ADO\bin\Debug\Entidades.ADO.dll.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\Entidades.ADO\bin\Debug\Entidades.ADO.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\Entidades.ADO\bin\Debug\Entidades.ADO.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\Entidades.ADO\obj\Debug\Entidades.ADO.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\Entidades.ADO\obj\Debug\Entidades.ADO.pdb

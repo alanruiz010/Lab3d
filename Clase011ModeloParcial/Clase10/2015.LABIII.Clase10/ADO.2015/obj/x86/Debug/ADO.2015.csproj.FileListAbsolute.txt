@@ -1,0 +1,30 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\bin\Debug\ADO.2015.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\bin\Debug\ADO.2015.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\bin\Debug\Entidades.ADO.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\bin\Debug\Entidades.ADO.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmBusquedaPersonas.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmDatos.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmPersonas.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmPrincipal.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmRowState.resources
+C:\Users\Christian\Desktop\Visual C# Definitiva\2015.LABIII.Clase10\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.exe
+C:\Users\Christian\Desktop\Visual C# Definitiva\2015.LABIII.Clase10\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\bin\Debug\ADO.2015.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\bin\Debug\ADO.2015.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\bin\Debug\Entidades.ADO.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\bin\Debug\Entidades.ADO.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmBusquedaPersonas.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmDatos.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmPersonas.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmPrincipal.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.frmRowState.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO._2015.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase10\ADO.2015\obj\x86\Debug\ADO.2015.csproj.GenerateResource.Cache

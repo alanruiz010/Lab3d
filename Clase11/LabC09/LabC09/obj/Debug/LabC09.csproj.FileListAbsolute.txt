@@ -1,0 +1,9 @@
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\LabC09\LabC09\bin\Debug\LabC09.exe.config
+C:\Users\alumno.LAB4PC\Desktop\LabC09\LabC09\bin\Debug\LabC09.exe.config
+C:\Users\alumno.LAB4PC\Desktop\LabC09\LabC09\obj\Debug\LabC09.Form1.resources
+C:\Users\alumno.LAB4PC\Desktop\LabC09\LabC09\obj\Debug\LabC09.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\LabC09\LabC09\obj\Debug\LabC09.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\LabC09\LabC09\bin\Debug\LabC09.exe
+C:\Users\alumno.LAB4PC\Desktop\LabC09\LabC09\bin\Debug\LabC09.pdb
+C:\Users\alumno.LAB4PC\Desktop\LabC09\LabC09\obj\Debug\LabC09.exe
+C:\Users\alumno.LAB4PC\Desktop\LabC09\LabC09\obj\Debug\LabC09.pdb

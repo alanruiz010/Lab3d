@@ -1,0 +1,20 @@
+Db conectado
+Db SinConeccion
+--------------------
+1-DataSet--------> DataTable1 ; DataTable2
+2-Conectamos el DATASET con un ""SQLDATAADAPTER""
+3-Este OBJETO""SQLDATAADAPTER"" PARA LA CONEXION TRABAJA
+  en un entorno "DESCONECTADO"
+  a->FILL()
+  a->UPDATE()
+Son metodos del Metodo:
+	-> DATAADAPTER
+Tiene Propiedades:
+	->SELECTCOMMAND--->
+	->DELETECOMMAND--->
+	->	       ------>SQLCOMMAND	
+	->INSERTCOMMAND--->
+	->UPDATECOMMAND--->
+----------------------------------------------------------------
+EXPLICACION DE BAUS:
+	-> dataAdapter.Fill(Tabla)
